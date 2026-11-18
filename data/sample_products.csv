@@ -1,0 +1,6 @@
+product,category,selling_price,unit_cost,shipping_cost,platform_fee_rate,estimated_monthly_sales,competition_level,return_risk,shipping_complexity
+Reusable desk organizer,Home office,79,24,8,0.05,850,3,2,1
+Compact travel pouch,Travel accessories,59,18,7,0.06,1200,4,2,1
+Pet grooming brush,Pet supplies,69,21,9,0.05,950,3,3,2
+Insulated lunch container,Kitchen,99,38,11,0.06,620,3,2,2
+Adjustable phone stand,Electronics accessories,49,13,6,0.07,1800,5,2,1
