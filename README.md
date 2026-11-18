@@ -79,3 +79,14 @@ The score is a prioritization framework, not a recommendation to purchase invent
 ## Author
 
 Personal portfolio project by **Xudong Sun**. Demonstrates e-commerce operations thinking, product research, Excel/SQL-style analysis, unit economics, and data-informed decision support.
+
+
+## Deploy a public demo (Streamlit Community Cloud)
+
+1. Sign in at https://share.streamlit.io/ with GitHub.
+2. Connect/authorize your GitHub account if prompted.
+3. Select **Create app**.
+4. Choose repository `xswlhhh23-source/ecommerce-product-research`, branch `main`, and entrypoint file `app.py`.
+5. Choose an available subdomain and click **Deploy**.
+
+The app has no API keys or secrets. After deployment, commits to the connected GitHub branch are reflected in the app. See the [official deployment guide](https://docs.streamlit.io/deploy/streamlit-community-cloud/deploy-your-app/deploy).
